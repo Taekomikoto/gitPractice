@@ -28,7 +28,6 @@ public class LoginTest {
 
         LoginPage1 loginPage = new LoginPage1(driver);
 
-
         loginPage.enterUsername("John Doe");
         loginPage.enterPassword("asd123");
 
